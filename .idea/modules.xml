@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Challenges/Challenges.iml" filepath="$PROJECT_DIR$/Challenges/Challenges.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lectures/Collection and Generics/Collection and Generics.iml" filepath="$PROJECT_DIR$/lectures/Collection and Generics/Collection and Generics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lectures/Exception Handling/Exception Handling.iml" filepath="$PROJECT_DIR$/lectures/Exception Handling/Exception Handling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lectures/File Handling/File Handling.iml" filepath="$PROJECT_DIR$/lectures/File Handling/File Handling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lectures/functional programming/Lambda Expression/Lambda Expression.iml" filepath="$PROJECT_DIR$/lectures/functional programming/Lambda Expression/Lambda Expression.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lectures/Multithreading/Multithreading.iml" filepath="$PROJECT_DIR$/lectures/Multithreading/Multithreading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Operators if else statements/Operators if else statements.iml" filepath="$PROJECT_DIR$/Operators if else statements/Operators if else statements.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lectures/Randomclasss/Randomclasss.iml" filepath="$PROJECT_DIR$/lectures/Randomclasss/Randomclasss.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java class.iml" filepath="$PROJECT_DIR$/.idea/java class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Educadd/learing java.iml" filepath="$PROJECT_DIR$/Educadd/learing java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lectures/lectures.iml" filepath="$PROJECT_DIR$/lectures/lectures.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lectures/functional programming/material employee data/material employee data.iml" filepath="$PROJECT_DIR$/lectures/functional programming/material employee data/material employee data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lectures/oops principle/oops principle.iml" filepath="$PROJECT_DIR$/lectures/oops principle/oops principle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lectures/patterns/patterns.iml" filepath="$PROJECT_DIR$/lectures/patterns/patterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lectures/type conversion and casting/type conversion and casting.iml" filepath="$PROJECT_DIR$/lectures/type conversion and casting/type conversion and casting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lectures/functional programming.databaseof Employees/untitled/untitled.iml" filepath="$PROJECT_DIR$/lectures/functional programming.databaseof Employees/untitled/untitled.iml" />
+    </modules>
+  </component>
+</project>
