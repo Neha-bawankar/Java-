@@ -2,12 +2,13 @@ package OOPS;
 
 public class Constructor {
     public static void main(String[] args) {
-      Complex1 num1= new Complex1();
+      Complex1 num1= new Complex1();  // creating object
       Complex1 num2 = new Complex1(5, 7);
       num1.print();
       num2.print();
         System.out.println("Adding two number");
         num1.add(num2);
+        num1.print();
     }
 }
 
@@ -22,9 +23,9 @@ class Complex1{
         b =0;
     }
 
-    public Complex1(int real, int imaginary){  //parameterized constructor
-        a = real;
-        b = imaginary;
+  public Complex1(int a, int b){  //parameterized constructor
+       this.a = a;
+        this.b = b;
     }
 
     Complex1 add(Complex1 num2){
